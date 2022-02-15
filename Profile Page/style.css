@@ -1,0 +1,74 @@
+body {
+    background: #ffff;
+}
+
+div {
+    height: 400px;
+}
+
+#container {
+    width: 800px;
+    height: 400px;
+    margin: 0 auto;
+    margin-top: 20px;
+    background: #aaa;
+    padding: 10px;
+}
+
+#box1 {
+    float: left;
+    background: red;
+    width: 34%;
+}
+
+#box2 {
+    width: 33%;
+    float: right;
+    background: #00bfff;
+}
+
+#box2 h2{
+    margin: 10px;
+}
+
+#box2 a{
+    position: relative;
+    left: 180px;
+}
+
+#box3 {
+    width: 33%;
+    float: left;
+    background: #ffa500;
+}
+
+#box3 form{
+    position: relative;
+    left: 20px;
+    top: 160px
+}
+#video{
+    position: absolute;
+    top: 210px;
+    border: 5px,white;
+}
+
+#input{
+    position: relative;
+    left: 20px;
+    top: 180px;
+}
+
+#submit{
+    position: relative;
+    left: 100px;
+    bottom: 180px;
+}
+
+#footer{
+    position: relative;
+    left: 300px;
+    bottom: 75px;
+}
+  
+  
