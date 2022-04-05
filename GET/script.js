@@ -11,4 +11,4 @@ function mydata(data){
   $(".mypanel").html(text); //insert output into div class="mypanel"
 };
 
-b1.addEventListener('click',getFromServer); //call getFromServer function on button click
+b1.addEventListener('click', getFromServer); //call getFromServer function on button click

@@ -1,0 +1,46 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: #000;
+    background: #dcdcdc;
+}
+h1 {
+    font-family: "Open Sans", sans-serif;
+    color: black;
+    font-weight: bold;
+    font-size: 32px;
+    padding-bottom: 20px;
+}
+
+h2 {
+    font-family: "Open Sans", sans-serif;
+    color: black;
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+
+a {
+    text-decoration: none;
+    
+}
+a:hover {
+    color: #32cd32;
+}       
+
+.navbar {
+    background: #d3d3d3;
+    padding: 10px;
+    height: 100px;
+}
+
+.navbar-brand {
+    font-size: 32px;
+    font-style: italic;
+    font-weight: bold;
+    color: green;
+}
+
+.navbar ul li.nav-item {
+    font-size: 20px;
+    color: black;
+    padding: 10px;
+}
